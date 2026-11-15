@@ -10,3 +10,4 @@ public class AdvancedRemote extends RemoteControl {
 	        device.setVolume(0);
 	    }
 }
+

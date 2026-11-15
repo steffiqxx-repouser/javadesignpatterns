@@ -8,3 +8,4 @@ public class BasicRemote extends RemoteControl {
 	}
 
 }
+
